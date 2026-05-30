@@ -1,0 +1,14 @@
+# DIMENSIONES
+8 8
+# VEHICULOS: Tipo(B=Bus/C=Carro) Color X Y Orientacion Tamano
+B 0 0 0 H 3
+C 2 0 1 H 2
+C 1 0 5 V 2
+B 1 6 0 V 3
+# PASAJEROS: color x y
+0 2 0
+0 4 0
+1 0 6
+1 6 3
+2 2 1
+2 5 1
