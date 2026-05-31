@@ -11,10 +11,9 @@
  * @brief Colores disponibles para vehiculos y personas en el juego
  *
  * Cada vehiculo y pasajero tiene un color. Un pasajero solo puede abordar
- * un vehiculo de su mismo color. El color AZUL (3) no se usa en pasajeros
- * porque no existe un vehiculo de ese color en el juego.
+ *
  */
-enum colores { rojo, verde, amarillo, azul };
+enum colores { rojo, verde, amarillo };
 
 /**
  * @class Objeto
