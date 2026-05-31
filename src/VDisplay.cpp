@@ -12,14 +12,13 @@ VDisplay::VDisplay(int w, int h) : ancho(w), alto(h) {}
 /**
  * @brief Convierte el enumerado colores a su nombre en espanol
  * @param c Color del enumerado colores
- * @return Cadena con el nombre: "ROJO", "VERDE", "AMARILLO", "AZUL" o "DESC"
+ * @return Cadena con el nombre: "ROJO", "VERDE", "AMARILLO" o "DESC"
  */
 const char* VDisplay::colorToString(colores c) const {
     switch (c) {
         case rojo:    return "ROJO";
         case verde:   return "VERDE";
         case amarillo:return "AMARILLO";
-        case azul:    return "AZUL";
         default:      return "DESC";
     }
 }
