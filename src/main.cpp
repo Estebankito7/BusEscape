@@ -1,4 +1,8 @@
 /**
+Autores: Juan Esteban Hoyos Ortiz - 2540054
+Juan José Montaño Dosman - 2538124
+Santiago Muñoz Bolaños - 2539226
+
  * @file main.cpp
  * @brief Punto de entrada principal del juego "Bus Escape: Traffic Jam C++ Edition"
  *
